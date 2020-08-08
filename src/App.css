@@ -2,9 +2,15 @@
 
   text-align: center;
   font-size: 50px;
-  text-shadow: 3px 5px 7px rgb(148, 156, 229);
+  text-shadow: 1px 2px 4px rgb(26, 38, 129);
   margin-bottom: 50px;
   text-decoration: underline;
 }
 
 
+body{
+
+  background-image: linear-gradient(to bottom, rgb(177, 192, 226) , white);
+  background-repeat: no-repeat;
+ 
+}
