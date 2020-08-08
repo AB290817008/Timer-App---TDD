@@ -1,0 +1,48 @@
+#wrapper {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+ 
+}
+
+#displayContainer{
+
+   border-style: dotted;
+   border-width: 5px;
+   padding: 20px;
+    font-size: 100px;
+    min-width: 300px;
+    background-color: rgb(184, 180, 180);
+    box-shadow: 2px 5px 20px rgb(51, 40, 218);
+    color: rgb(18, 107, 240);
+}
+
+#buttonsContainer{
+
+    margin-top: 30px;
+  display: flex;
+
+   text-align: center;
+  min-width: 300px;
+   
+ }
+
+ .buttons{
+
+    font-size: 30px;
+    margin: 10px;
+    width: 100px;
+    color:rgb(240, 236, 236);
+    background-color:rgb(51, 40, 218);
+   
+ }
+ .buttons:hover{
+
+   
+    
+    background-color:rgb(15, 6, 141);
+   
+ }
